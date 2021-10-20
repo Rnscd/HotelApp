@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Ren_S/AndroidStudioProjects/HotelPIM/app/src/main/res/drawable/roundbutton.xml" value="0.2203125" />
+        <entry key="..\:/Users/Ren_S/AndroidStudioProjects/HotelPIM/app/src/main/res/layout/activity_cccccccc.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Ren_S/AndroidStudioProjects/HotelPIM/app/src/main/res/layout/activity_checar_reserva.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Ren_S/AndroidStudioProjects/HotelPIM/app/src/main/res/layout/activity_confirmacao_reserva.xml" value="0.22" />
+        <entry key="..\:/Users/Ren_S/AndroidStudioProjects/HotelPIM/app/src/main/res/layout/activity_confirmar_email.xml" value="0.22" />
+        <entry key="..\:/Users/Ren_S/AndroidStudioProjects/HotelPIM/app/src/main/res/layout/activity_criar_conta.xml" value="0.22" />
+        <entry key="..\:/Users/Ren_S/AndroidStudioProjects/HotelPIM/app/src/main/res/layout/activity_criar_conta_sc.xml" value="0.33" />
+        <entry key="..\:/Users/Ren_S/AndroidStudioProjects/HotelPIM/app/src/main/res/layout/activity_email_confirmado.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Ren_S/AndroidStudioProjects/HotelPIM/app/src/main/res/layout/activity_filtro_reserva.xml" value="0.25" />
+        <entry key="..\:/Users/Ren_S/AndroidStudioProjects/HotelPIM/app/src/main/res/layout/activity_home_screen.xml" value="0.25" />
+        <entry key="..\:/Users/Ren_S/AndroidStudioProjects/HotelPIM/app/src/main/res/layout/activity_kmkmk.xml" value="0.33" />
+        <entry key="..\:/Users/Ren_S/AndroidStudioProjects/HotelPIM/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Ren_S/AndroidStudioProjects/HotelPIM/app/src/main/res/layout/activity_quartos_disponiveis.xml" value="0.25" />
+        <entry key="..\:/Users/Ren_S/AndroidStudioProjects/HotelPIM/app/src/main/res/layout/activity_reserva_confirmada.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Ren_S/AndroidStudioProjects/HotelPIM/app/src/main/res/layout/content_scrolling.xml" value="0.25" />
+        <entry key="..\:/Users/Ren_S/AndroidStudioProjects/HotelPIM/app/src/main/res/mipmap-anydpi-v26/hotellogo.xml" value="0.2203125" />
+        <entry key="..\:/Users/Ren_S/AndroidStudioProjects/HotelPIM/app/src/main/res/mipmap-anydpi-v26/hotellogo_round.xml" value="0.2203125" />
+        <entry key="..\:/Users/Ren_S/AndroidStudioProjects/HotelPIM/app/src/main/res/mipmap-anydpi-v26/hotelsalogo.xml" value="0.2203125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
